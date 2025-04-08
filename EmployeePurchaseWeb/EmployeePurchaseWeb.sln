@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePurchaseWeb", "EmployeePurchaseWeb\EmployeePurchaseWeb.csproj", "{B28C41C3-0017-473F-8CA1-829274CED49F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePurchaseWebAPI", "..\EmployeePurchaseWebAPI\EmployeePurchaseWebAPI.csproj", "{960DA725-D9E0-4E20-98E7-12E282E91EF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B28C41C3-0017-473F-8CA1-829274CED49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28C41C3-0017-473F-8CA1-829274CED49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28C41C3-0017-473F-8CA1-829274CED49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28C41C3-0017-473F-8CA1-829274CED49F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960DA725-D9E0-4E20-98E7-12E282E91EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960DA725-D9E0-4E20-98E7-12E282E91EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960DA725-D9E0-4E20-98E7-12E282E91EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960DA725-D9E0-4E20-98E7-12E282E91EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D577D36-4286-4B63-95B4-3E30D145FAE6}
+	EndGlobalSection
+EndGlobal
