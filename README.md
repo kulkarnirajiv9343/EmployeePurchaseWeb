@@ -8,3 +8,7 @@ I assumed this to be a simple web application that displays a web page having em
 4. A couple nice thing to have which I did not include would be: dependency injection (I was planning to add a StructureMap container, but decided against adding any), a textarea field instead of a regular textbox for the description (which I might add and commit).
 5. I assumed that only the Create part is part of the task, so I did not fully implement the Edit and Details part which need some work on the image display (currently displaying the image in its binary format).
 6. I was looking for a best way to post the image to the database. I tested it directly from the mvc web app (without the web api), creating the database using the Code First approach. I then added the Web API using the same database I added before using the Database First approach with EF. 
+
+
+
+Updated The Create view replacing the simple text box for Description with a larger text area field.
